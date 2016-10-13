@@ -1,0 +1,10 @@
+Answer these questions based on the reading/watching:
+
+1. In Knight Rider, why does each LED require its own pin?
+   Because each LED receives the signal from Arduino board independently.
+   
+2. Why is Knight Rider 2 in the Arduino tutorial so much shorter than Knight Rider 1?
+   Because in the code it uses Array function and "for" loop.
+
+3. What resistor value should be used with the LEDs?
+   220 Ohm
